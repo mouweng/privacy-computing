@@ -17,20 +17,20 @@ Everything about privacy-computing. *Your contribution is highly valued!*
 
 ## 开源项目
 
-| 项目                                                         | 开源机构                        | 调研时间 | star | fork | about                                                        | 技术路径               |
-| ------------------------------------------------------------ | ------------------------------- | -------- | ---- | ---- | ------------------------------------------------------------ | ---------------------- |
-| [PySyft](https://github.com/OpenMined/PySyft)                | OpenMined                       | 220423   | 8.1k | 1.8k | A library for answering questions using data you cannot see  | 联邦学习、多方安全计算 |
-| [TF-Encrypted](https://github.com/tf-encrypted/tf-encrypted) | DropoutLavs、OpenMined、Alibaba | 220423   | 1k   | 178  | A Framework for Encrypted Machine Learning in TensorFlow     | 多方安全计算           |
-| [Asylo](https://github.com/google/asylo)                     | google                          | 220423   | 124  | 912  | An open and flexible framework for developing enclave applications | 可信执行环境           |
-| [FATE](https://github.com/FederatedAI/FATE)                  | 微众银行                        | 220423   | 4.2k | 1.3k | An Industrial Grade Federated Learning Framework             | 联邦学习               |
-| [private-join-and-compute](https://github.com/google/private-join-and-compute) | google                          | 220423   | 673  | 108  | This project contains an implementation of the "Private Join and Compute" functionality. | 多方安全计算           |
-| [PaddleFL](https://github.com/PaddlePaddle/PaddleFL)         | baidu                           | 220423   | 368  | 101  | Federated Deep Learning in PaddlePaddle                      | 联邦学习               |
-| [CrypTen](https://github.com/facebookresearch/CrypTen)       | facebook                        | 220423   | 1k   | 174  | CrypTen is a framework for Privacy Preserving Machine Learning built on PyTorch. | 多方安全计算           |
-| [fedlearner](https://github.com/bytedance/fedlearner)        | bytedance                       | 220423   | 760  | 159  | A multi-party collaborative machine learning framework       | 联邦学习               |
-| [Rosetta](https://github.com/LatticeX-Foundation/Rosetta)    | 矩阵元                          | 220423   | 448  | 96   | A Privacy-Preserving Framework Based on TensorFlow           | 多方安全计算           |
-| MesaTEE                                                      | 百度                            |          |      |      |                                                              | 可信执行环境           |
-| TF-Federated                                                 | google                          |          |      |      |                                                              | 联邦学习               |
-| KubeTEE                                                      | 蚂蚁                            |          |      |      |                                                              | 可信执行环境           |
+| 项目                                                         | 开源机构                        | 调研时间 | star | fork | about                                                        | 技术路径               | 调研人 |
+| ------------------------------------------------------------ | ------------------------------- | -------- | ---- | ---- | ------------------------------------------------------------ | ---------------------- | ------ |
+| [PySyft](https://github.com/OpenMined/PySyft)                | OpenMined                       | 220423   | 8.1k | 1.8k | A library for answering questions using data you cannot see  | 联邦学习、多方安全计算 | wyf    |
+| [TF-Encrypted](https://github.com/tf-encrypted/tf-encrypted) | DropoutLavs、OpenMined、Alibaba | 220423   | 1k   | 178  | A Framework for Encrypted Machine Learning in TensorFlow     | 多方安全计算           | wyf    |
+| [Asylo](https://github.com/google/asylo)                     | google                          | 220423   | 124  | 912  | An open and flexible framework for developing enclave applications | 可信执行环境           | lhj    |
+| [FATE](https://github.com/FederatedAI/FATE)                  | 微众银行                        | 220423   | 4.2k | 1.3k | An Industrial Grade Federated Learning Framework             | 联邦学习               | lhj    |
+| [private-join-and-compute](https://github.com/google/private-join-and-compute) | google                          | 220423   | 673  | 108  | This project contains an implementation of the "Private Join and Compute" functionality. | 多方安全计算           | lhj    |
+| [PaddleFL](https://github.com/PaddlePaddle/PaddleFL)         | baidu                           | 220423   | 368  | 101  | Federated Deep Learning in PaddlePaddle                      | 联邦学习               | lhj    |
+| [CrypTen](https://github.com/facebookresearch/CrypTen)       | facebook                        | 220423   | 1k   | 174  | CrypTen is a framework for Privacy Preserving Machine Learning built on PyTorch. | 多方安全计算           | wyf    |
+| [fedlearner](https://github.com/bytedance/fedlearner)        | bytedance                       | 220423   | 760  | 159  | A multi-party collaborative machine learning framework       | 联邦学习               | wyf    |
+| [Rosetta](https://github.com/LatticeX-Foundation/Rosetta)    | 矩阵元                          | 220423   | 448  | 96   | A Privacy-Preserving Framework Based on TensorFlow           | 多方安全计算           | lhj    |
+| MesaTEE                                                      | 百度                            |          |      |      |                                                              | 可信执行环境           |        |
+| TF-Federated                                                 | google                          |          |      |      |                                                              | 联邦学习               |        |
+| KubeTEE                                                      | 蚂蚁                            |          |      |      |                                                              | 可信执行环境           |        |
 
 ## 平台
 
