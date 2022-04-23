@@ -28,6 +28,9 @@ Everything about privacy-computing. *Your contribution is highly valued!*
 | [CrypTen](https://github.com/facebookresearch/CrypTen)       | facebook                        | 220423   | 1k   | 174  | CrypTen is a framework for Privacy Preserving Machine Learning built on PyTorch. | 多方安全计算           |
 | [fedlearner](https://github.com/bytedance/fedlearner)        | bytedance                       | 220423   | 760  | 159  | A multi-party collaborative machine learning framework       | 联邦学习               |
 | [Rosetta](https://github.com/LatticeX-Foundation/Rosetta)    | 矩阵元                          | 220423   | 448  | 96   | A Privacy-Preserving Framework Based on TensorFlow           | 多方安全计算           |
+| MesaTEE                                                      | 百度                            |          |      |      |                                                              | 可信执行环境           |
+| TF-Federated                                                 | google                          |          |      |      |                                                              | 联邦学习               |
+| KubeTEE                                                      | 蚂蚁                            |          |      |      |                                                              | 可信执行环境           |
 
 ## 平台
 
