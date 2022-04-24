@@ -12,17 +12,11 @@
 - 动态:直接计算你看不到的数据。
 - 静态:创建静态的计算图，可以在稍后的时间在不同的计算上部署/缩放。
 
-
-
 ## 安装
 
 ```undefined
 $ conda create -n pysyft python=3.9
 $ conda activate pysyft
 $ conda install jupyter notebook
+$ pip install syft
 ```
-
-## 使用
-
-duet 可以进行笔记本之间的点对点连接
-
