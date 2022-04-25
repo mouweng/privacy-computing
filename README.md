@@ -41,3 +41,11 @@ Everything about privacy-computing. *Your contribution is highly valued!*
 | [百度点石联邦学习平台](https://dianshi.baidu.com/#/)         | 百度     |
 | 阿凡达安全计算平台                                           | 富数科技 |
 
+## 优质仓库
+
+| 仓库                                                         | 介绍                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [ZeroWangZY/federated-learning](https://github.com/ZeroWangZY/federated-learning) | 包括：介绍、综述文章、最新文章、代表工作及其代码、数据集、论文等等。（到2021.04停止更新） |
+| [lokinko/Federated-Learning](https://github.com/lokinko/Federated-Learning) | 联邦学习资料收集（持续更新），非常多的英文论文、资料和部分中文资料。 |
+| https://github.com/tao-shen/Federated-Learning-FAQ/          | 浙大博士整理的联邦学习FAQ，可以配合[视频](https://www.bilibili.com/video/BV1mE411j7GT?spm_id_from=333.337.search-card.all.click)一起食用 |
+
