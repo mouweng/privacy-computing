@@ -49,3 +49,12 @@ Everything about privacy-computing. *Your contribution is highly valued!*
 | [lokinko/Federated-Learning](https://github.com/lokinko/Federated-Learning) | 联邦学习资料收集（持续更新），非常多的英文论文、资料和部分中文资料。 |
 | https://github.com/tao-shen/Federated-Learning-FAQ/          | 浙大DAI实验室的博士整理的联邦学习FAQ，可以配合[视频](https://www.bilibili.com/video/BV1mE411j7GT?spm_id_from=333.337.search-card.all.click)一起食用 |
 
+
+
+## 应用场景
+
+- [WeBanck案例](https://cn.fedai.org/cases/)
+  - 基于联邦学习的计算机视觉平台
+  - 联邦学习的交通违章保险案例
+  - FATE在小微企业信用风险管理中的应用
+  - 在 FATE 平台上的跨银行反洗钱应用
